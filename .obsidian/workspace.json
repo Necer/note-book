@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "d19ada393c804221",
+    "type": "split",
+    "children": [
+      {
+        "id": "9da4a9a41a4cb6a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6cef6732ec8757d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6efbb970b06aa457",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a2d0c9abb0b74e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ddd4e27480066bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cec053e76e2337b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "49dd305b88eb5869",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a2556e83b9b97855",
+    "type": "split",
+    "children": [
+      {
+        "id": "93e25c61095877b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc804efa68a01113",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b2688631b616c8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e8386bed76a3600",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6ab1670debb33d05",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "0ddd4e27480066bf",
+  "lastOpenFiles": [
+    "操作系统/Linux/Ubuntu",
+    "操作系统/Linux",
+    "操作系统/MacOS",
+    "操作系统/Windows",
+    "编程/IDE/Visual Studio Code",
+    "编程/IDE/Idea",
+    "编程/语言/Rust",
+    "编程/语言/Go",
+    "编程/语言/JavaScript",
+    "编程/语言/Python",
+    "编程/语言/Java"
+  ]
+}
