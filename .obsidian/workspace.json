@@ -11,8 +11,12 @@
             "id": "a6cef6732ec8757d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "编程/构建工具/Maven/Plugins/Style Check.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "编程/构建工具/Maven/Plugins/Style Check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "编程/构建工具/Maven/Plugins/Style Check.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "编程/构建工具/Maven/Plugins/Style Check.md"
               }
             }
           }
@@ -142,18 +146,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0ddd4e27480066bf",
+  "active": "a6cef6732ec8757d",
   "lastOpenFiles": [
+    "编程/构建工具/Maven/Plugins/Java Format.md",
+    "编程/构建工具/Maven/Plugins/Code Coverage.md",
+    "编程/构建工具/Maven/Plugins/Style Check.md",
+    "编程/测试工具/Code Coverage/JaCoCo.md",
+    "编程/测试工具/Code Coverage",
+    "编程/测试工具",
+    "编程/构建工具/Maven/Maven Pom.md",
+    "编程/构建工具/Maven/Plugins",
+    "README.md",
     "操作系统/Linux/Ubuntu",
     "操作系统/Linux",
     "操作系统/MacOS",
     "操作系统/Windows",
     "编程/IDE/Visual Studio Code",
     "编程/IDE/Idea",
-    "编程/语言/Rust",
-    "编程/语言/Go",
-    "编程/语言/JavaScript",
-    "编程/语言/Python",
-    "编程/语言/Java"
+    "编程/语言/Rust"
   ]
 }
