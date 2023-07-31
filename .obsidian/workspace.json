@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9da4a9a41a4cb6a3",
+        "id": "6cc1299b6186b0de",
         "type": "tabs",
         "children": [
           {
-            "id": "a6cef6732ec8757d",
+            "id": "e86084535c068ed9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/构建工具/Maven/Plugins/Style Check.md",
+                "file": "编程/构建工具/Maven/Plugins/Code Coverage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/构建工具/Maven/Plugins/Style Check.md",
+                "file": "编程/构建工具/Maven/Plugins/Code Coverage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/构建工具/Maven/Plugins/Style Check.md",
+                "file": "编程/构建工具/Maven/Plugins/Code Coverage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/构建工具/Maven/Plugins/Style Check.md"
+                "file": "编程/构建工具/Maven/Plugins/Code Coverage.md"
               }
             }
           }
@@ -146,23 +146,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a6cef6732ec8757d",
+  "active": "0ddd4e27480066bf",
   "lastOpenFiles": [
-    "编程/构建工具/Maven/Plugins/Java Format.md",
-    "编程/构建工具/Maven/Plugins/Code Coverage.md",
-    "编程/构建工具/Maven/Plugins/Style Check.md",
     "编程/测试工具/Code Coverage/JaCoCo.md",
-    "编程/测试工具/Code Coverage",
-    "编程/测试工具",
+    "AI/LLM/关键词/综合梯度和贪婪搜索.md",
+    "编程/测试工具/Apache ap",
+    "项目工具/蝉道",
     "编程/构建工具/Maven/Maven Pom.md",
-    "编程/构建工具/Maven/Plugins",
-    "README.md",
-    "操作系统/Linux/Ubuntu",
-    "操作系统/Linux",
-    "操作系统/MacOS",
-    "操作系统/Windows",
-    "编程/IDE/Visual Studio Code",
-    "编程/IDE/Idea",
-    "编程/语言/Rust"
+    "编程/视觉/OpenCV.md",
+    "编程/视觉",
+    "编程/语言/Java/库",
+    "编程/语言/Java/轮子",
+    "编程/语言/Java/基础",
+    "编程/构建工具/Maven/Plugins/Code Coverage.md",
+    "编程/构建工具/Maven/Plugins/Java Format.md",
+    "编程/构建工具/Maven/Plugins/Style Check.md",
+    "编程/语言/Java/框架",
+    "AI/LLM",
+    "AI/LLM/关键词",
+    "AI",
+    "README.md"
   ]
 }
