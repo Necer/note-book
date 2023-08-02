@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/构建工具/Maven/Plugins/Code Coverage.md",
+                "file": "编程/语言/Java/基础/Feature/JDK8 Feature.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "形式",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/构建工具/Maven/Plugins/Code Coverage.md",
+                "file": "编程/语言/Java/基础/Feature/JDK8 Feature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/构建工具/Maven/Plugins/Code Coverage.md",
+                "file": "编程/语言/Java/基础/Feature/JDK8 Feature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/构建工具/Maven/Plugins/Code Coverage.md"
+                "file": "编程/语言/Java/基础/Feature/JDK8 Feature.md"
               }
             }
           }
@@ -146,10 +147,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0ddd4e27480066bf",
+  "active": "e86084535c068ed9",
   "lastOpenFiles": [
-    "编程/测试工具/Code Coverage/JaCoCo.md",
+    "编程/语言/Java/基础/Feature/JDK8 Feature.md",
     "AI/LLM/关键词/综合梯度和贪婪搜索.md",
+    "编程/测试工具/Code Coverage/JaCoCo.md",
+    "README.md",
+    "编程/版本控制/SVN/异常.md",
+    "编程/版本控制/SVN",
+    "编程/版本控制",
+    "编程/语言/Java/基础/Feature/JDK Feature.md",
+    "编程/语言/Java/基础/Feature",
+    "编程/构建工具/Maven/Plugins/Code Coverage.md",
+    "编程/语言/Java/基础/Feature",
     "编程/测试工具/Apache ap",
     "项目工具/蝉道",
     "编程/构建工具/Maven/Maven Pom.md",
@@ -158,13 +168,7 @@
     "编程/语言/Java/库",
     "编程/语言/Java/轮子",
     "编程/语言/Java/基础",
-    "编程/构建工具/Maven/Plugins/Code Coverage.md",
     "编程/构建工具/Maven/Plugins/Java Format.md",
-    "编程/构建工具/Maven/Plugins/Style Check.md",
-    "编程/语言/Java/框架",
-    "AI/LLM",
-    "AI/LLM/关键词",
-    "AI",
-    "README.md"
+    "编程/构建工具/Maven/Plugins/Style Check.md"
   ]
 }
