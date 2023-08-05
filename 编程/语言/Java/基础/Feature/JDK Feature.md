@@ -1,9 +1,10 @@
+[[Java]]
 特征
 #Java/feature #JDK 
 
 ## JDK8
 #JDK8
-[[JDK8 Feature]]
+
 
 1、Lambda表达式
 

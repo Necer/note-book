@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/语言/Java/基础/Feature/JDK8 Feature.md",
+                "file": "编程/语言/Java/基础/并发处理/确保在多线程环境下获取单例对象的线程安全性.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "形式",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 287.5
   },
   "right": {
     "id": "a2556e83b9b97855",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/语言/Java/基础/Feature/JDK8 Feature.md",
+                "file": "编程/语言/Java/基础/并发处理/确保在多线程环境下获取单例对象的线程安全性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/语言/Java/基础/Feature/JDK8 Feature.md",
+                "file": "编程/语言/Java/基础/并发处理/确保在多线程环境下获取单例对象的线程安全性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/语言/Java/基础/Feature/JDK8 Feature.md"
+                "file": "编程/语言/Java/基础/并发处理/确保在多线程环境下获取单例对象的线程安全性.md"
               }
             }
           }
@@ -149,26 +148,29 @@
   },
   "active": "e86084535c068ed9",
   "lastOpenFiles": [
+    "编程/语言/Java/Java.md",
     "编程/语言/Java/基础/Feature/JDK8 Feature.md",
+    "编程/语言/Java/基础/并发处理/确保在多线程环境下获取单例对象的线程安全性.md",
+    "编程/语言/Java/基础/Feature/JDK Feature.md",
+    "存储/数据库/关系型/SqlServer/CRUD.md",
+    "编程/语言/Java/基础/并发处理",
+    "编程/视觉/OpenCV/OpenCV 概览.md",
+    "存储/阵列",
+    "存储/硬件",
+    "存储/数据库/非关系性",
+    "存储/数据库/关系型",
+    "存储/数据库/关系型/SqlServer",
+    "存储/数据库/关系型/Mysql",
+    "存储/数据库",
+    "存储",
+    "编程/视觉/OpenCV",
+    "编程/构建工具/Maven/Plugins/Check style.md",
     "AI/LLM/关键词/综合梯度和贪婪搜索.md",
     "编程/测试工具/Code Coverage/JaCoCo.md",
     "README.md",
     "编程/版本控制/SVN/异常.md",
-    "编程/版本控制/SVN",
-    "编程/版本控制",
-    "编程/语言/Java/基础/Feature/JDK Feature.md",
-    "编程/语言/Java/基础/Feature",
     "编程/构建工具/Maven/Plugins/Code Coverage.md",
-    "编程/语言/Java/基础/Feature",
-    "编程/测试工具/Apache ap",
-    "项目工具/蝉道",
     "编程/构建工具/Maven/Maven Pom.md",
-    "编程/视觉/OpenCV.md",
-    "编程/视觉",
-    "编程/语言/Java/库",
-    "编程/语言/Java/轮子",
-    "编程/语言/Java/基础",
-    "编程/构建工具/Maven/Plugins/Java Format.md",
-    "编程/构建工具/Maven/Plugins/Style Check.md"
+    "编程/构建工具/Maven/Plugins/Java Format.md"
   ]
 }
